@@ -5,7 +5,13 @@
 
 
 
-game XO
+วิธีติดตั้งนะครับพี่เปลี่ยน copy ไฟล์libไปเปลี่ยนตามภาพครับ(อาจจะต้องแก้path ตรงimport เป็นชื่อFolder ที่พี่ตั้งนิดหน่อย)
+![image](https://github.com/user-attachments/assets/dbe55644-1ea0-4ce4-a833-a12cf781db43)
+และ pubspec.yaml พี่เพิ่ม package ตามนี้ครับ
+![image](https://github.com/user-attachments/assets/79e3ef29-a787-4600-a8d4-898453de30f6)
+
+
+
 
 1. การเริ่มเกม
 เมื่อเกมเริ่มต้น:
