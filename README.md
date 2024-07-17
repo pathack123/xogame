@@ -4,11 +4,13 @@
 ![Screenshot_20240717_171819_com example xogame_nipat_sangsima](https://github.com/user-attachments/assets/ce35e637-ff07-4812-9b15-d68daa45f616)
 
 
-
-วิธีติดตั้งนะครับพี่เปลี่ยน copy ไฟล์libไปเปลี่ยนตามภาพครับ(อาจจะต้องแก้path ตรงimport เป็นชื่อFolder ที่พี่ตั้งนิดหน่อย)
+1.พี่เปิดIDEที่พี่ใช้ สร้างPorject Dart ขึ้นมาก่อน(ส่วนตัวผมชอบใช้Android studio)
+2.วิธีติดตั้งนะครับพีcopy ไฟล์libไปเปลี่ยนตามภาพครับ(อาจจะต้องแก้path ตรงimport เป็นชื่อFolder ที่พี่ตั้งนิดหน่อย)
 ![image](https://github.com/user-attachments/assets/dbe55644-1ea0-4ce4-a833-a12cf781db43)
 และ pubspec.yaml พี่เพิ่ม package ตามนี้ครับ
 ![image](https://github.com/user-attachments/assets/79e3ef29-a787-4600-a8d4-898453de30f6)
+3.กดปุ่ม เพื่อ Run แอพดู (ตรงEmulator Android ผมไม่ควรต่ำกว่า version7นะครับ55+)
+![image](https://github.com/user-attachments/assets/f1413989-51cc-4474-848f-3faf4cc0dee4)
 
 
 
